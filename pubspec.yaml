@@ -1,0 +1,7 @@
+name: sinWave
+description: A sample web application
+dependencies:
+  browser: any
+  three:
+    git: https://github.com/threeDart/three.dart.git
+  vector_math: ">=1.4.3 <2.0.0"
