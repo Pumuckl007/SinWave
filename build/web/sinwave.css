@@ -1,0 +1,19 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 0px;
+  overflow:hidden;
+}
+
+h1, p {
+  color: #333;
+}
+div{
+  height:100%;
+  width:100%;
+  background-color:#FF00FF
+}
